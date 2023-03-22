@@ -15,6 +15,7 @@ function check_previous_sync_alive(){
 is_previous_sync_alive=`check_previous_sync_alive`
 
 if [ "$is_previous_sync_alive" == "false" ] ; then
+  echo "ps -ef | grep git" | mail -s "[TogoDX] sync process jammed" mitsuhashi@dbcls.rois.ac.jp
   exit 1
 fi
 
