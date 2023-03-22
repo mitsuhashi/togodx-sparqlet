@@ -6,7 +6,7 @@ ENST ID を受け取って、自分と兄弟の transcript の情報を返す
 
 ## Endpoint
 
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## Parameters
 * `id`

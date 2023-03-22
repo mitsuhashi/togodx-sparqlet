@@ -9,7 +9,7 @@
   * example: GO_0008150 (biological process), GO_0005575 (cellular component), GO_0003674 (molecular function)
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `leaf`
 - GO と NCBI Gene のアノテーション関係

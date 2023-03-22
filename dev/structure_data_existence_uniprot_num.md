@@ -13,7 +13,7 @@
         - If a uniprot id is entered, it returns whether pdb entry exists or not.
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `withAnnotation`
 ```sparql

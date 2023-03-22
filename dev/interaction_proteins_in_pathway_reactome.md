@@ -14,7 +14,7 @@
         - If a Uniprot id is entered, it returns the pathway to which the protein belongs
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `leaf`
 - pathway と UniProt のアノテーション関係

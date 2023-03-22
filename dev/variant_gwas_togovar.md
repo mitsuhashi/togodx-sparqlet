@@ -12,7 +12,7 @@
 
 ## Endpoint
 
-https://togodx.integbio.jp/ep/sparql/virtuoso
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `leaf`
 ```sparql

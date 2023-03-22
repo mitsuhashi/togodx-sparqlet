@@ -12,7 +12,7 @@
         - The length of signal peptide annotation in Uniprot
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `withannotation`
 ```sparql

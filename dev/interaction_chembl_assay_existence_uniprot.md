@@ -16,7 +16,7 @@
         - If a UniProt ID is entered, it returns whether ChEMBL entry exists or not.
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `data`
 ```sparql

@@ -15,7 +15,7 @@ Input a ENSG ID of a TF and output a list of ENSG IDs of downstream genes
 
 ## Endpoint
 
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `main`
 

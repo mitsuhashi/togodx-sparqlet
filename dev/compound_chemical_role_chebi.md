@@ -16,7 +16,7 @@
 
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `graph`
 - Chemical Role の親子関係

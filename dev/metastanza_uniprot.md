@@ -6,7 +6,7 @@
   * example: P06493
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `main`
 一つの SPARQL だと遅いので分割

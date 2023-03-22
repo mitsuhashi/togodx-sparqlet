@@ -12,7 +12,7 @@
         - The disorder annotation in Region_Annotation of Uniprot
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `disorder`
 ```sparql

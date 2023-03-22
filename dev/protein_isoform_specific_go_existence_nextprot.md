@@ -1,7 +1,7 @@
 # Isoform specific GO annotation existence from nextprot (守屋)
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `hasSpecific`
 ```sparql

@@ -12,7 +12,7 @@
         - The Catalytic activity based on EC number
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `withAnnotation`
 ```sparql

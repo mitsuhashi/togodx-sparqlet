@@ -18,7 +18,7 @@
 
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `graph`
 - Application の親子関係
