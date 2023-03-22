@@ -15,7 +15,7 @@ function check_previous_sync_alive(){
 is_previous_sync_alive=`check_previous_sync_alive`
 
 if [ "$is_previous_sync_alive" == "false" ] ; then
-  exit 0
+  exit 1
 fi
 
 git add -A .
