@@ -19,6 +19,10 @@ if [ "$is_previous_sync_alive" == "false" ] ; then
   exit 1
 fi
 
+SCRIPT_DIR=$(cd $(dirname $0); pwd)
+
+cd $SCRIPT_DIR
+
 git pull --rebase
 git add -A .
 git commit -m 'auto commit'
