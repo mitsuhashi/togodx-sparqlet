@@ -19,7 +19,7 @@ if [ "$is_previous_sync_alive" == "false" ] ; then
   exit 1
 fi
 
+git pull --rebase
 git add -A .
 git commit -m 'auto commit'
-git pull --rebase
 git push
