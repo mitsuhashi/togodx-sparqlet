@@ -7,7 +7,7 @@
 
 ## Endpoint
 
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `data`
 ```sparql

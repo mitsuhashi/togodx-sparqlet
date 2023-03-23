@@ -17,7 +17,7 @@
         - If a UniProt ID is entered, it returns the number of interacting proteins
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `data`
 ```sparql

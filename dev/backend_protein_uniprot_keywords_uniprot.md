@@ -22,7 +22,7 @@
   * default: 9995
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `graph`
 - keyword ID と UniProt ID のアノテーション関係と、keyword ID の親子関係を同時取得

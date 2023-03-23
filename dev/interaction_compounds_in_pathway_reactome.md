@@ -17,7 +17,7 @@
         - If a ChEBI id is entered, it returns the pathway to which the chemical compound belongs
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `leaf`
 - pathway と UniProt のアノテーション関係

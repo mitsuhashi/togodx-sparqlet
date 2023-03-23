@@ -7,7 +7,7 @@
 
 ## Endpoint
 
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## testパターン
 - この例は、[0_readme](https://togodx.integbio.jp/sparqlist_dev/0_readme)の「分類系：ルートノードが無い場合や、階層が無い場合」と近く、「分類系：ルートノードが無いが、階層がある場合」。

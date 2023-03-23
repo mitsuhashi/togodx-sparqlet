@@ -7,7 +7,7 @@
 
 ## Endpoint
 
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `data1`
 SPARQL 内での sum は遅いので、エキソン長の足し合わせは js で行う

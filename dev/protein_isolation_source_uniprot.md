@@ -15,7 +15,7 @@
             - [UniProt Controlled vocabulary of tissues](https://www.uniprot.org/docs/tisslist)
 
 ## Endpoint
-https://integbio.jp/togosite/sparql
+{{SPARQLIST_TOGODX_SPARQL}}
 
 ## `data`
 ```sparql
